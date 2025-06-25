@@ -33,8 +33,6 @@ Google's AI engine states Latitude and altitude both have a significant impact o
 #### Own experiments
 Before anything else a pairplot should give some idea. For every 2 columns a pairplot shows how these two columns relates. The diagonal plots show the histogram for every column.
 
-![pairplots](https://github.com/user-attachments/assets/697f9530-03ad-4b9a-8ad0-cb0b7750e02b)
-
 <image src="https://github.com/user-attachments/assets/697f9530-03ad-4b9a-8ad0-cb0b7750e02b" width="300"/>
 
 
