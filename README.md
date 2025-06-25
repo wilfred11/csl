@@ -19,3 +19,6 @@ A Markov equivalence class, in the context of graphical models, is a set of Dire
 
 Conditional independence (CI) tests are crucial for causal discovery, as they help identify relationships between variables by determining if they are statistically independent given a set of other variables. These tests form the foundation of constraint-based causal discovery algorithms like the PC algorithm, which use CI relationships to infer causal structures.
 
+#### Null hypothesis
+The null hypothesis assumes that there is no association between the two variables of interest. A p-value can then be calculated and if it is below 0.05 the null hypothesis will be rejected suggesting that there is significant association between the variables.
+
