@@ -61,7 +61,7 @@ Given this data I am able to produce a graph that looks like the graph directly 
 ![own](https://github.com/user-attachments/assets/791994c4-d959-4e83-8c4a-117b3cd0c310)
 
 
-<image src="https://github.com/user-attachments/assets/abbc95e0-c53d-4c07-9eef-afde4d74f671" width="300"/>
+<image src="" width="300"/>
 
 #### Using the PC algorithm as implemented by causallearn
 
