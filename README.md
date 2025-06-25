@@ -55,9 +55,20 @@ conditional independency test:
 | altitude  | temperature  | latitude  | 0.0   | yes  |
 | latitude  | temperature  | altitude  | 0.12  | no  |
 
-Given this data I am able to produce a graph that looks like the graph directly below. I must admit using another statistical method (which is "kernel"), I get different results. The p-values are very close to the critical values so it is a matter of tens of rows to get another result. Brazil does not count that many cities located on mountains or in mountainous area.
+Given this data I am able to produce a graph that looks like the graph directly below. I must admit using another statistical method (currently "kernel"), I get different results. The p-values are very close to the critical values so it is a matter of tens of rows to get another result. Brazil does not count that many cities located on mountains or in mountainous area.
 
 <image src="https://github.com/user-attachments/assets/00cc9978-1c3b-4c20-bf18-a7518b5d1f59" width="300"/>
+
+#### Using the PC algorithm as implemented by causallearn
+
+Using the PC algorithm as mentioned directly below, I get a result like in my own experiments.
+
+`from causallearn.search.ConstraintBased.PC import pc`
+
+`cg = pc(temp_data[relevant_cols].to_numpy())`
+
+
+
 
 
 
