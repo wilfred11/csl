@@ -46,6 +46,12 @@ conditional independency test:
 
 `gcm.independence_test(data[x], data[y],conditioned_on=data[z], method="kernel")`
 
+| x  | y  | z  | p  | assoc  |
+|---|---|---|---|---|
+| altitude  | latitude  |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 
 
 
