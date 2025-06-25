@@ -26,5 +26,7 @@ The null hypothesis assumes that there is no association between the two variabl
 In this test I will try to find the dependencies between variables altitude, latitude and temperature. I found some dataset that includes several cities in Brazil, the latitude, altitude and the temperature, I will try to find a causal graph that captures dependencies. 
 #### Predicted outcome
 Google's AI engine states Latitude and altitude both have a significant impact on temperature. 
-> Generally, as latitude increases (moving away from the equator towards the poles), temperatures tend to decrease. Similarly, temperature decreases with increasing altitude, meaning higher altitudes are typically colder
+> Generally, as latitude increases (moving away from the equator towards the poles), temperatures tend to decrease. Similarly, temperature decreases with increasing altitude, meaning higher altitudes are typically colder. The causal graph for this mechanism looks like in the picture directly below.
+![true_graph](https://github.com/user-attachments/assets/3f33862f-036b-483c-b2d8-572d81979bca)
+
 
