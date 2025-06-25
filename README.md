@@ -61,7 +61,7 @@ Given this data I am able to produce a graph that looks like the graph directly 
 
 #### Using the PC algorithm as implemented by causallearn
 
-Using the PC algorithm as mentioned directly below, I get a result like in my own experiments.
+Using the PC algorithm as mentioned directly below, I get a result like in my own experiments. I really think I need data that is more global.
 
 `from causallearn.search.ConstraintBased.PC import pc`
 
