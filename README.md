@@ -12,3 +12,6 @@ A causal graph contains nodes and edges which link nodes that are causally relat
 
 **Acyclicity** means there can be no cycle in the causal graph.
 
+### Knowledge
+A Markov equivalence class, in the context of graphical models, is a set of Directed Acyclic Graphs (DAGs) that all represent the same set of conditional independence relationships between variables. These DAGs, despite potentially having different edge orientations, share the same skeleton (undirected graph with the same edges) and the same "v-structures" (patterns where two converging arrows point to the same node). A Completed Partially Directed Acyclic Graph (CPDAG) can uniquely represent a Markov equivalence class. 
+
