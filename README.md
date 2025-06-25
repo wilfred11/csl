@@ -35,6 +35,8 @@ Before anything else a pairplot should give some idea. For every 2 columns a pai
 
 ![pairplots](https://github.com/user-attachments/assets/697f9530-03ad-4b9a-8ad0-cb0b7750e02b)
 
+<image src="https://github.com/user-attachments/assets/697f9530-03ad-4b9a-8ad0-cb0b7750e02b" width="300"/>
+
 
 
 
