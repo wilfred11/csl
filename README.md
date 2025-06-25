@@ -10,3 +10,5 @@ A causal graph contains nodes and edges which link nodes that are causally relat
 
 **Causal Sufficience** refers to the assumption that all relevant confounders (unobserved variables that influence both the cause and effect) have been measured and included in the analysis.
 
+**Acyclicity** means there can be no cycle in the causal graph.
+
