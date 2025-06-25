@@ -48,7 +48,7 @@ conditional independency test:
 
 | x  | y  | z  | p  | assoc  |
 |---|---|---|---|---|
-| altitude  | latitude  |   |   |   |
+| altitude  | latitude  |   | 0.31  | no  |
 |   |   |   |   |   |
 |   |   |   |   |   |
 
