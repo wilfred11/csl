@@ -35,6 +35,16 @@ Before anything else a pairplot should give some idea. For every 2 columns a pai
 
 <image src="https://github.com/user-attachments/assets/697f9530-03ad-4b9a-8ad0-cb0b7750e02b" width="300"/>
 
+To get an idea of the associations between variables I have performed a (conditional) independency test for every combination possible. For this test I have used the "dowhy" package.
+
+marginal independency test:
+
+`import dowhy.gcm as gcm`
+`gcm.independence_test(data[x], data[y], method="kernel")`
+
+conditional independency test:
+
+`gcm.independence_test(data[x], data[y],conditioned_on=data[z], method="kernel")`
 
 
 
