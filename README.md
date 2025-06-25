@@ -15,3 +15,7 @@ A causal graph contains nodes and edges which link nodes that are causally relat
 ### Knowledge
 A Markov equivalence class, in the context of graphical models, is a set of Directed Acyclic Graphs (DAGs) that all represent the same set of conditional independence relationships between variables. These DAGs, despite potentially having different edge orientations, share the same skeleton (undirected graph with the same edges) and the same "v-structures" (patterns where two converging arrows point to the same node). A Completed Partially Directed Acyclic Graph (CPDAG) can uniquely represent a Markov equivalence class. 
 
+### Conditional independence tests
+
+Conditional independence (CI) tests are crucial for causal discovery, as they help identify relationships between variables by determining if they are statistically independent given a set of other variables. These tests form the foundation of constraint-based causal discovery algorithms like the PC algorithm, which use CI relationships to infer causal structures.
+
