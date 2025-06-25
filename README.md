@@ -57,10 +57,10 @@ conditional independency test:
 
 Given this data I am able to produce a graph that looks like the graph directly below. I must admit using another statistical method (currently "kernel"), I get different results. The p-values are very close to the critical values so it is a matter of tens of rows to get another result. Brazil does not count that many cities located on mountains or in mountainous area.
 
-![own](https://github.com/user-attachments/assets/a6cc5120-618c-4145-a451-6369840ec0e0)
+![own](https://github.com/user-attachments/assets/abbc95e0-c53d-4c07-9eef-afde4d74f671)
 
 
-<image src="https://github.com/user-attachments/assets/a6cc5120-618c-4145-a451-6369840ec0e0" width="300"/>
+<image src="https://github.com/user-attachments/assets/abbc95e0-c53d-4c07-9eef-afde4d74f671" width="300"/>
 
 #### Using the PC algorithm as implemented by causallearn
 
