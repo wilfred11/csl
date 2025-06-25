@@ -22,3 +22,9 @@ Conditional independence (CI) tests are crucial for causal discovery, as they he
 #### Null hypothesis
 The null hypothesis assumes that there is no association between the two variables of interest. A p-value can then be calculated and if it is below 0.05 the null hypothesis will be rejected suggesting that there is significant association between the variables.
 
+### Experiment
+In this test I will try to find the dependencies between variables altitude, latitude and temperature. I found some dataset that includes several cities in Brazil, the latitude, altitude and the temperature, I will try to find a causal graph that captures dependencies. 
+#### Predicted outcome
+Google's AI engine states Latitude and altitude both have a significant impact on temperature. 
+> Generally, as latitude increases (moving away from the equator towards the poles), temperatures tend to decrease. Similarly, temperature decreases with increasing altitude, meaning higher altitudes are typically colder
+
