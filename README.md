@@ -29,4 +29,6 @@ Google's AI engine states Latitude and altitude both have a significant impact o
 > Generally, as latitude increases (moving away from the equator towards the poles), temperatures tend to decrease. Similarly, temperature decreases with increasing altitude, meaning higher altitudes are typically colder. The causal graph for this mechanism looks like in the picture directly below.
 ![true_graph](https://github.com/user-attachments/assets/3f33862f-036b-483c-b2d8-572d81979bca)
 
+<image="https://github.com/user-attachments/assets/3f33862f-036b-483c-b2d8-572d81979bca" width=100/>
+
 
