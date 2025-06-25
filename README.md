@@ -49,9 +49,11 @@ conditional independency test:
 | x  | y  | z  | p  | assoc  |
 |---|---|---|---|---|
 | altitude  | latitude  |   | 0.31  | no  |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
+| altitude  | temperature  |   | 0.08  | no  |
+| latitude  | temperature  |   | 0.05  | yes  |
+| altitude  | latitude  | temperature  | 0.79  | no  |
+| altitude  | temperature  | latitude  | 0.0   | yes  |
+| latitude  | temperature  | altitude  | 0.12  | no  |
 
 
 
