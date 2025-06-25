@@ -55,5 +55,10 @@ conditional independency test:
 | altitude  | temperature  | latitude  | 0.0   | yes  |
 | latitude  | temperature  | altitude  | 0.12  | no  |
 
+Given this data I am able to produce a graph that looks like the graph directly below.
+
+![own](https://github.com/user-attachments/assets/00cc9978-1c3b-4c20-bf18-a7518b5d1f59)
+
+
 
 
